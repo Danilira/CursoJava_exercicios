@@ -1,0 +1,2 @@
+# praticaDeliberada
+Exercícios 
