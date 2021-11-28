@@ -1,6 +1,6 @@
 # Curso Java
 
-[Curso](https://www.udemy.com/share/1013hwAEMbeVpXQXsB/) que estou fazendo de Programação orientada a objetos com Prof. Dr. Nelio Alves.
+[Curso](https://www.udemy.com/share/1013hwAEMbeVpXQXsB/) que estou fazendo de Programação orientado a objetos com Prof. Dr. Nelio Alves.
 
 ## Exercícios 
 
